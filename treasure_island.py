@@ -71,7 +71,7 @@ if choice1 == "left":
 
     else:
         print_slow(
-            "🌊 You start swimming, but the water turns ice cold. Now Tentacles emerge and pull you down.\n Game Over. 🌊")
+            "🌊 You start swimming, but the water turns ice cold.  Tentacles emerge and pull you down.\n Game Over. 🌊")
 
 else:
     print_slow(
